@@ -28,7 +28,7 @@
 	}
   ],
   "dependencies": {
-	"jquery": ">=1.5",
+	"jquery": ">=1.5"
   },
   "keywords": ["context menu", "contetxtmenu", "menu", "jquery ui menu", "popup", "right-click"],
   "scripts": {
