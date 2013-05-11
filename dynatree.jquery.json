@@ -1,6 +1,6 @@
 {
   "name": "dynatree",
-  "version": "1.2.4+1",
+  "version": "1.2.4+2",
   
   "title": "Dynatree",
   "description": "Dynatree is a JavaScript dynamic tree view plugin for jQuery with support for persistence, keyboard, checkboxes, drag'n'drop, and lazy loading. Note.",
@@ -14,15 +14,9 @@
 	"type": "svn",
 	"url": "https://code.google.com/p/dynatree/"
   },
-  "demo": {
-    "url": "http://wwwendt.de/tech/dynatree/doc/samples.html"
-  },
-  "docs": {
-    "url": "http://wwwendt.de/tech/dynatree/doc/dynatree-doc.html"
-  },
-  "bugs": {
-    "url": "https://code.google.com/p/dynatree/issues/list"
-  },
+  "demo": "http://wwwendt.de/tech/dynatree/doc/samples.html",
+  "docs": "http://wwwendt.de/tech/dynatree/doc/dynatree-doc.html",
+  "bugs": "https://code.google.com/p/dynatree/issues/list",
   "licenses": [
 	{
 	  "type": "MIT",
